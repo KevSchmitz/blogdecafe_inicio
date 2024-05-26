@@ -6,6 +6,6 @@ Link para ver el proyecto [Tienda](KevSchmitz.github.io/blogdecafe_inicio/)
 
 ## Lenguajes utilizados.
 
-- [HTML] 
+- HTML
 
-- [CSS]
+- CSS
